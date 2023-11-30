@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ibm-metadata>
+  <annotated-classes name="News"/>
+  <annotated-classes name="IPCounter"/>
+  <annotated-classes name="AdminPanel"/>
+  <annotated-classes name="IPRecord"/>
+  <annotated-classes name="Login"/>
+  <annotated-classes name="EditPost"/>
+  <annotated-classes name="Logout"/>
+  <annotated-classes name="org.apache.tiles.web.startup.TilesServlet"/>
+  <annotated-classes name="CreatePost"/>
+  <annotated-classes name="Home"/>
+</ibm-metadata>
